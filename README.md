@@ -268,7 +268,27 @@ This repository is a cleaned portfolio refactor centered on that contribution. I
 
 ## Screenshots
 
-Application screenshots will be added here.
+### Authentication
+
+<p align="center">
+  <img src="screenshots/login.png" width="280" alt="StudentHUB Login Screen">
+  &nbsp;&nbsp;&nbsp;
+  <img src="screenshots/register.png" width="280" alt="StudentHUB Registration Screen">
+</p>
+
+### Course Groups & Real-Time Chat
+
+<p align="center">
+  <img src="screenshots/home.png" width="280" alt="StudentHUB Course Groups Screen">
+  &nbsp;&nbsp;&nbsp;
+  <img src="screenshots/chat.png" width="280" alt="StudentHUB Real-Time Group Chat">
+</p>
+
+### Student Profile
+
+<p align="center">
+  <img src="screenshots/profile.png" width="280" alt="StudentHUB Student Profile">
+</p>
 
 ## Future Improvements
 
