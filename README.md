@@ -65,10 +65,10 @@ The portfolio version expands and modernizes my original contribution with authe
 ┌─────────────────────────────┐
 │    React Native / Expo      │
 │                             │
-│  Authentication            │
-│  Course Groups             │
-│  Real-Time Chat            │
-│  Student Profile           │
+│  Authentication             │
+│  Course Groups              │
+│  Real-Time Chat             │
+│  Student Profile            │
 └──────────────┬──────────────┘
                │
           REST + Socket.IO
@@ -77,10 +77,10 @@ The portfolio version expands and modernizes my original contribution with authe
 ┌─────────────────────────────┐
 │      Node.js / Express      │
 │                             │
-│  Authentication API        │
-│  Chat API                  │
-│  JWT Verification          │
-│  Socket.IO Server          │
+│  Authentication API         │
+│  Chat API                   │
+│  JWT Verification           │
+│  Socket.IO Server           │
 └──────────────┬──────────────┘
                │
                │ SQL
